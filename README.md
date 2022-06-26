@@ -29,3 +29,17 @@ Application must leverage the full stack:
 -   Java API will leverage Spring's MockMvc for integration/e2e tests of controller endpoints
 -   Java API will be adequately documented (Java Docs and web endpoint documentation [Swagger/OpenAPI])
 -   At least one external API must be leveraged
+
+          TO VIEW THE FRONT-END/UI, FOLLOW THIS URL:
+    https://github.com/MelroseDigital/Beats-Ahoy.FrontEnd.git
+
+         The Developers: 
+         Beats Ahoy is a Collaboration between: 
+         Tenyce Melrose,
+         Levi Houlton,
+         Rick Figueroa,
+         Veronica Leslie, 
+         & Catherine Claunch
+
+
+
