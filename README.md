@@ -1,7 +1,7 @@
 
 # Beats Ahoy
 
-     ![](baAssets/img1.svg)    ![](baAssets/1.svg)
+![](baAssets/1.svg)
 
 Beats Ahoy is a music streaming application, with a unique twist. The app creates a personal listening experience via playlists customized to the users preferences and current state. 
 A propietary questionaire is used to gauge the user's mood, energy-levels, current enviromental-factors, etc, and then returns an aligned playlist. For example, a high energy, high motivation, sunny day selection would yield a faster tempo, upbeat, playlist with high dancability metrics. The questionnaire levergaes Spotify's Search Algoritm for assistance ranking attributes like livileness, 
@@ -44,6 +44,7 @@ Java, Javascript, HTML, CSS...
 [Java App Service](https://docs.microsoft.com/en-us/azure/app-service/quickstart-java?pivots=platform-linux-development-environment-maven&tabs=javase)
 
 [SpringBoot to Azure](https://dev.to/azure/the-easy-way-to-deploy-a-spring-boot-application-to-production-on-azure-2joi)
+
 
 Application must leverage the full stack:
 
