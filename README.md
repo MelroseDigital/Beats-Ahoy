@@ -1,45 +1,58 @@
-Beats Ahoy-
-## Description
-BeatsAhoy allows its users to create an account and login to create a specialized playlist based off the following attributes. (Current Mood, Time of Day, Energy Level, Spontaneous level). These attributes are placed on a scale from 1 being the lowest and 10 being the highest. The following attributes are asked in a quiz like format. The results are then saved on the users profile along with a link to the playlist generated on the Spotify platform. The users can see all of the recently created playlists as well as their created playlists on the dashboard page.
+
+# Beats Ahoy
+
+Beats Ahoy is a music streaming application, with a unique twist. The app creates a personal listening experience via playlists customized to the users preferences and current state. 
+A propietary questionaire is used to gauge the user's mood, energy-levels, current enviromental-factors, etc, and then returns an aligned playlist. For example, a high energy, high motivation, sunny day selection would yield a faster tempo, upbeat, playlist with high dancability metrics. The questionnaire levergaes Spotify's Search Algoritm for assistance ranking attributes like livileness, 
+dancability, and tempo. 
+Mutiple Playlists can be created, saved, and accessed later. 
+While most streaming services center the song or artist, Beats Ahoy centers around you, the user. Music function's as more than entertainment- it's an aid/tool.
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+
+## Tech Stack
+
+**Front-End:** React, Material UI, NPM, Axios
+**Back-End:** Azure SQL, Java 8, Spring 5, 
+              CI/CD Azure DevOps
+**Testing:** Junit, Mockito
 
 
 
-Application must leverage the full stack:
+## 🛠 Skills
+Java, Javascript, HTML, CSS...
 
--   Azure SQL for persistence
--   API built with Java 8 and Spring 5
--   UI built with React
 
-### Technology framework requirements:
 
--   Java API will leverage the Spring Framework
--   Java API will use Spring Data JPA to communicate with the DB
--   Java API will be RESTful
--   Java API will be unit tested using JUnit and Mockito, with coverage reports generated using Jacoco
--   Complete CI/CD pipelines will use Azure DevOps
 
-### Other requirements:
+## Features
 
--   Application will demonstrate at least ten individual user stories
--   Application's own data model must be sufficiently complex (i.e. >2 tables)
--   SQL DB will be deployed to the cloud
--   Java API will be deployed to the cloud (Azure DevOps)
--   UI application will be deployed to the cloud (Azure Static Website on Azure Storage)
--   Java API will have >=80% test (line) coverage for service layer with validations (Used EclEmma or JaCoCo plugin to generate these reports)
--   Java API will leverage Spring's MockMvc for integration/e2e tests of controller endpoints
--   Java API will be adequately documented (Java Docs and web endpoint documentation [Swagger/OpenAPI])
--   At least one external API must be leveraged
+- RESTful API
+- Login/Register
+- Playlist Customization
+  & Generation
+- External API Leveraged
+  *Spotify
 
-          TO VIEW THE FRONT-END/UI, FOLLOW THIS URL:
-    https://github.com/MelroseDigital/Beats-Ahoy.FrontEnd.git
 
-         The Developers: 
-         Beats Ahoy is a Collaboration between: 
-         Tenyce Melrose,
-         Levi Houlton,
-         Rick Figueroa,
-         Veronica Leslie, 
-         & Catherine Claunch
+## Documentation
 
+[Documentation](https://linktodocumentation)
+
+[Material UI Documentation](https://mui.com/material-ui/getting-started/overview/)
+[Java App Service](https://docs.microsoft.com/en-us/azure/app-service/quickstart-java?pivots=platform-linux-development-environment-maven&tabs=javase)
+[SpringBoot to Azure](https://dev.to/azure/the-easy-way-to-deploy-a-spring-boot-application-to-production-on-azure-2joi)
+## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
+| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
+| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
+| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
