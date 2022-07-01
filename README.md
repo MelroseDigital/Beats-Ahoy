@@ -6,7 +6,6 @@ A propietary questionaire is used to gauge the user's mood, energy-levels, curre
 dancability, and tempo. 
 Mutiple Playlists can be created, saved, and accessed later. 
 While most streaming services center the song or artist, Beats Ahoy centers around you, the user. Music function's as more than entertainment- it's an aid/tool.
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 
 ## Tech Stack
@@ -39,8 +38,11 @@ Java, Javascript, HTML, CSS...
 [Documentation](https://linktodocumentation)
 
 [Material UI Documentation](https://mui.com/material-ui/getting-started/overview/)
+
 [Java App Service](https://docs.microsoft.com/en-us/azure/app-service/quickstart-java?pivots=platform-linux-development-environment-maven&tabs=javase)
+
 [SpringBoot to Azure](https://dev.to/azure/the-easy-way-to-deploy-a-spring-boot-application-to-production-on-azure-2joi)
+
 ## Color Reference
 
 | Color             | Hex                                                                |
@@ -50,9 +52,22 @@ Java, Javascript, HTML, CSS...
 | Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
 | Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
+Application must leverage the full stack:
 
+Azure SQL for persistence
+API built with Java 8 and Spring 5
+UI built with React
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![](baAssets/BeatsAhoyPPT.svg)
 
+  TO VIEW THE FRONT-END/UI, FOLLOW THIS URL:
+https://github.com/MelroseDigital/Beats-Ahoy.FrontEnd.git
 
+ The Developers: 
+ Beats Ahoy is a Collaboration between: 
+ Tenyce Melrose,
+ Levi Houlton,
+ Rick Figueroa,
+ Veronica Leslie, 
+ & Catherine Claunch
