@@ -49,16 +49,17 @@ Java, Javascript, HTML, CSS...
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #90ADC6 |
+| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #97809E |
+| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #636678 |
+| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #C8AOD8 |
 
 Application must leverage the full stack:
 
-Azure SQL for persistence
-API built with Java 8 and Spring 5
-UI built with React
+* Azure SQL for persistence
+* API built with Java 8 and Spring 5
+* UI built with React
+
 ## Screenshots
 
            ![](baAssets/BeatsAhoyPPT.svg)
