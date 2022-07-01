@@ -12,10 +12,14 @@ While most streaming services center the song or artist, Beats Ahoy centers arou
 
 ## Tech Stack
 
-**Front-End:** React, Material UI, NPM, Axios
-**Back-End:** Azure SQL, Java 8, Spring 5, 
-              CI/CD Azure DevOps
-**Testing:** Junit, Mockito
+
+- **Front-End:** 
+React, Material UI, NPM, Axios
+- **Back-End:** 
+Azure SQL, Java 8, Spring 5, 
+CI/CD Azure DevOps
+- **Testing:** 
+Junit, Mockito
 
 
 
