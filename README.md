@@ -1,6 +1,8 @@
 
 # Beats Ahoy
 
+![](baAssets/img1.svg)
+
 Beats Ahoy is a music streaming application, with a unique twist. The app creates a personal listening experience via playlists customized to the users preferences and current state. 
 A propietary questionaire is used to gauge the user's mood, energy-levels, current enviromental-factors, etc, and then returns an aligned playlist. For example, a high energy, high motivation, sunny day selection would yield a faster tempo, upbeat, playlist with high dancability metrics. The questionnaire levergaes Spotify's Search Algoritm for assistance ranking attributes like livileness, 
 dancability, and tempo. 
@@ -59,15 +61,17 @@ API built with Java 8 and Spring 5
 UI built with React
 ## Screenshots
 
-![](baAssets/BeatsAhoyPPT.svg)
+           ![](baAssets/BeatsAhoyPPT.svg)
+           
 
   TO VIEW THE FRONT-END/UI, FOLLOW THIS URL:
 https://github.com/MelroseDigital/Beats-Ahoy.FrontEnd.git
 
- The Developers: 
- Beats Ahoy is a Collaboration between: 
- Tenyce Melrose,
- Levi Houlton,
- Rick Figueroa,
- Veronica Leslie, 
- & Catherine Claunch
+
+        The Developers: 
+        Beats Ahoy is a Collaboration between: 
+        Tenyce Melrose,
+        Levi Houlton,
+        Rick Figueroa,
+        Veronica Leslie, 
+        & Catherine Claunch
